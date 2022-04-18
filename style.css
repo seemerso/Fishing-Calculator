@@ -1,0 +1,5 @@
+body {font-family: sans-serif; text-align: center;}
+
+.box {width: 250px; height: 150px; background-color: grey; margin-left: 10px; margin-right: 10px; display: inline-block; color: white; font-size: 40pt; text-align: center; vertical-align: middle;}
+
+.selected {background-color: green;}
