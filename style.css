@@ -4,4 +4,4 @@ body {font-family: sans-serif; text-align: center;}
 
 .selected {background-color: green;}
 
-.submitt {width: 20px; height:20px}
+.submit {width: 200px; height:50px; font-size: 20pt}
